@@ -102,3 +102,7 @@ root.render(navbar)
 
 // ReactDOM.render(navbar, document.getElementById("root"))
 // ReactDOM.createRoot(document.getElementById("root")).render(navbar)
+
+
+// [object Object] is something kind of string representation of the object
+//JSON.stringify(navbar) now it will show all those json objects

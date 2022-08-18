@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border: 2px solid #000;
+    background: #21222A;
+    color: #61DAFB;
+    box-shadow: 2px 0px 2px 0px #21222A;
+}
+.nav h4{
+   transform: translateX(100%);
+   color: #DEEBF8;
+}
+.nav img{
+    width: 28.93px;
+    height: 28.93px;
+}

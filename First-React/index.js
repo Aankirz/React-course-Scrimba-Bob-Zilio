@@ -106,3 +106,6 @@ root.render(navbar)
 
 // [object Object] is something kind of string representation of the object
 //JSON.stringify(navbar) now it will show all those json objects
+
+import React from "react"
+import ReactDOM from "react-dom"
